@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3003638908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59acba342728178d98ebdb128c56954a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d53ee34b0787764dbd159de8f44c4b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/CapsuleWall.prefab
+Dependencies:
+- D:/Du_Unity3D_Project/SiKi/20230504_Asset_Bundle_Project/AssetBundles/share.unity3d
